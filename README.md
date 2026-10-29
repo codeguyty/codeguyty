@@ -1,6 +1,16 @@
+<div align="center">
+
 # Hey, I’m Tyler 👋
 
-**Software Developer | Founder & Builder of WrenchFlow | Game Development Enthusiast**
+### Software Developer | Founder & Builder of WrenchFlow | Game Development Enthusiast
+
+**Building practical software. Solving real-world problems. Always learning.**
+
+[GitHub](https://github.com/codeguyty) · [Instagram](https://www.instagram.com/codeguyty/)
+
+---
+
+</div>
 
 I’m a software developer with a background in industrial maintenance and mechanical systems. I enjoy building practical applications, solving real-world problems, and continuously improving my programming skills.
 
@@ -22,11 +32,19 @@ I’m currently developing **WrenchFlow**, a maintenance-management software pro
 - Git and GitHub workflows
 - Game development
 
+---
+
+<div align="center">
+
 ## 🔧 Featured Project: WrenchFlow
 
-**Maintenance Management. Simplified.**
+### Maintenance Management. Simplified.
 
 WrenchFlow is a software project designed to help maintenance teams manage work orders, coordinate technicians, and improve communication between departments.
+
+**Status: Early development and architecture planning.**
+
+</div>
 
 **Planned features:**
 
@@ -36,7 +54,9 @@ WrenchFlow is a software project designed to help maintenance teams manage work 
 - Maintenance tracking
 - Light and dark themes
 
-**Status:** Early development and architecture planning.
+---
+
+<div align="center">
 
 ## 🎯 My Goals
 
@@ -44,9 +64,10 @@ Build a stable career in software development, create useful applications, and c
 
 ## 📫 Connect With Me
 
-- GitHub: [github.com/codeguyty](https://github.com/codeguyty)
-- Instagram: [@CodeGuyTy](https://www.instagram.com/codeguyty/)
+[**GitHub**](https://github.com/codeguyty) · [**Instagram**](https://www.instagram.com/codeguyty/)
 
 ---
 
 *Building. Learning. Improving. One commit at a time.*
+
+</div>
