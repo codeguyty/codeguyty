@@ -1,58 +1,52 @@
-<div align="center">
+# Hey, I’m Tyler 👋
 
-# Hey, I'm Tyler 👋
+**Software Developer | Founder & Builder of WrenchFlow | Game Development Enthusiast**
 
-### Software Developer • Building WrenchFlow • Game Development Enthusiast
+I’m a software developer with a background in industrial maintenance and mechanical systems. I enjoy building practical applications, solving real-world problems, and continuously improving my programming skills.
 
-**Build • Learn • Improve • Repeat**
+I’m currently developing **WrenchFlow**, a maintenance-management software project inspired by my experience working in industrial environments.
 
-[GitHub](https://github.com/codeguyty) · [Instagram](https://www.instagram.com/codeguyty/)
+## 🚀 What I’m Working On
 
-</div>
+- 🔧 **WrenchFlow** — Designing and developing a maintenance-management platform for technicians, supervisors, and administrators.
+- 💻 **CodeGuyTy** — Rebuilding my developer portfolio and documenting my software development journey.
+- 🎮 **Game Development** — Exploring 2D game development with Phaser and Godot, with plans to expand into 3D.
+- 📚 **Continued Learning** — Strengthening my frontend, backend, and software architecture skills.
 
-## About Me
+## 🛠️ My Development Focus
 
-I'm a software developer with a background in industrial maintenance and mechanical systems. I'm focused on building useful applications, improving my frontend and backend skills, and sharing what I learn along the way.
+- Frontend development and user interfaces
+- JavaScript and modern web technologies
+- Backend architecture and APIs
+- Database design
+- Git and GitHub workflows
+- Game development
 
-My flagship project is **WrenchFlow**, a maintenance-management application inspired by real-world maintenance workflows. I'm also exploring **2D game development**, with an interest in eventually building 3D games.
+## 🔧 Featured Project: WrenchFlow
 
-## Currently Working On
+**Maintenance Management. Simplified.**
 
-- 🔧 **WrenchFlow** — Planning a maintenance-management platform for administrators, supervisors, and technicians.
-- 💻 **CodeGuyTy** — Building my developer portfolio and documenting my progress.
-- 🎮 **Game development** — Learning and experimenting with Phaser.
-- 📚 **Continued learning** — Strengthening frontend, backend, and software architecture skills.
-
-## Development Interests
-
-`JavaScript` · `Web Development` · `UI/UX` · `APIs` · `Databases` · `Git & GitHub` · `Phaser` 
-
-## Featured Project: WrenchFlow
-
-**Maintenance management, simplified.**
-
-WrenchFlow is an early-stage software project intended to help maintenance teams manage work orders and coordinate day-to-day work.
+WrenchFlow is a software project designed to help maintenance teams manage work orders, coordinate technicians, and improve communication between departments.
 
 **Planned features:**
-- Role-based experiences for administrators, supervisors, and technicians
-- Work orders: Open → Assigned → In Progress → On Hold → Completed
+
+- Role-based dashboards
+- Work order creation and assignment
+- Technician workflows
+- Maintenance tracking
 - Light and dark themes
-- Maintenance workflow tracking
 
-**Status:** Design and architecture planning.
+**Status:** Early development and architecture planning.
 
-## Goals
+## 🎯 My Goals
 
-- Build and launch WrenchFlow
-- Grow as a full-stack software developer
-- Develop 2D games and eventually explore 3D
-- Document my progress and share what I learn
+Build a stable career in software development, create useful applications, and continue growing as a developer while pursuing game development as a creative passion.
 
-## Connect
+## 📫 Connect With Me
 
-- **GitHub:** [@codeguyty](https://github.com/codeguyty)
-- **Instagram:** [@codeguyty](https://www.instagram.com/codeguyty/)
+- GitHub: [github.com/codeguyty](https://github.com/codeguyty)
+- Instagram: [@CodeGuyTy](https://www.instagram.com/codeguyty/)
 
 ---
 
-<div align="center"><i>Building. Learning. Improving. One commit at a time.</i></div>
+*Building. Learning. Improving. One commit at a time.*
