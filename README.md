@@ -2,8 +2,6 @@
 
 <img src="assets/codeguyty-banner.png" alt="CodeGuyTy — Build, Learn, Improve, Repeat" width="100%" />
 
-<img src="assets/codeguyty-avatar.png" alt="CodeGuyTy logo" width="120" />
-
 # Hey, I’m Tyler 👋
 
 ### Software Developer | Founder & Builder of WrenchFlow | Game Development Enthusiast
