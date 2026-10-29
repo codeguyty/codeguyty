@@ -20,12 +20,12 @@ My flagship project is **WrenchFlow**, a maintenance-management application insp
 
 - 🔧 **WrenchFlow** — Planning a maintenance-management platform for administrators, supervisors, and technicians.
 - 💻 **CodeGuyTy** — Building my developer portfolio and documenting my progress.
-- 🎮 **Game development** — Learning and experimenting with Phaser and Godot.
+- 🎮 **Game development** — Learning and experimenting with Phaser.
 - 📚 **Continued learning** — Strengthening frontend, backend, and software architecture skills.
 
 ## Development Interests
 
-`JavaScript` · `Web Development` · `UI/UX` · `APIs` · `Databases` · `Git & GitHub` · `Phaser` · `Godot`
+`JavaScript` · `Web Development` · `UI/UX` · `APIs` · `Databases` · `Git & GitHub` · `Phaser` 
 
 ## Featured Project: WrenchFlow
 
