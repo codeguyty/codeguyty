@@ -1,22 +1,58 @@
-<h1 align="center">Hi 👋, I'm Tyler Moyer</h1>
-<h3 align="center">FullStack Developer with a passion for the Frontend and Design</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeguyty&label=Profile%20views&color=0e75b6&style=flat" alt="codeguyty" /> </p>
+# Hey, I'm Tyler 👋
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeguyty" alt="codeguyty" /></a> </p>
+### Software Developer • Building WrenchFlow • Game Development Enthusiast
 
-- 🔭 I’m currently working on **Personal Portfolio React Web App**
+**Build • Learn • Improve • Repeat**
 
-- 💬 Ask me about **Frontend Technologies**
+[GitHub](https://github.com/codeguyty) · [Instagram](https://www.instagram.com/codeguyty/)
 
-- 📫 How to reach me **codeguyty@icloud.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tyler-moyer-5a70971a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tyler-moyer-5a70971a2/" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm a software developer with a background in industrial maintenance and mechanical systems. I'm focused on building useful applications, improving my frontend and backend skills, and sharing what I learn along the way.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeguyty&show_icons=true&locale=en&layout=compact" alt="codeguyty" /></p>
+My flagship project is **WrenchFlow**, a maintenance-management application inspired by real-world maintenance workflows. I'm also exploring **2D game development**, with an interest in eventually building 3D games.
+
+## Currently Working On
+
+- 🔧 **WrenchFlow** — Planning a maintenance-management platform for administrators, supervisors, and technicians.
+- 💻 **CodeGuyTy** — Building my developer portfolio and documenting my progress.
+- 🎮 **Game development** — Learning and experimenting with Phaser and Godot.
+- 📚 **Continued learning** — Strengthening frontend, backend, and software architecture skills.
+
+## Development Interests
+
+`JavaScript` · `Web Development` · `UI/UX` · `APIs` · `Databases` · `Git & GitHub` · `Phaser` · `Godot`
+
+## Featured Project: WrenchFlow
+
+**Maintenance management, simplified.**
+
+WrenchFlow is an early-stage software project intended to help maintenance teams manage work orders and coordinate day-to-day work.
+
+**Planned features:**
+- Role-based experiences for administrators, supervisors, and technicians
+- Work orders: Open → Assigned → In Progress → On Hold → Completed
+- Light and dark themes
+- Maintenance workflow tracking
+
+**Status:** Design and architecture planning.
+
+## Goals
+
+- Build and launch WrenchFlow
+- Grow as a full-stack software developer
+- Develop 2D games and eventually explore 3D
+- Document my progress and share what I learn
+
+## Connect
+
+- **GitHub:** [@codeguyty](https://github.com/codeguyty)
+- **Instagram:** [@codeguyty](https://www.instagram.com/codeguyty/)
+
+---
+
+<div align="center"><i>Building. Learning. Improving. One commit at a time.</i></div>
